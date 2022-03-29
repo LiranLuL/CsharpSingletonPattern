@@ -1,0 +1,15 @@
+D:\university\CallCenter\bin\Debug\net6.0\CallCenter.exe
+D:\university\CallCenter\bin\Debug\net6.0\CallCenter.deps.json
+D:\university\CallCenter\bin\Debug\net6.0\CallCenter.runtimeconfig.json
+D:\university\CallCenter\bin\Debug\net6.0\CallCenter.dll
+D:\university\CallCenter\bin\Debug\net6.0\CallCenter.pdb
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.csproj.AssemblyReference.cache
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfoInputs.cache
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfo.cs
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.csproj.CoreCompileInputs.cache
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.dll
+D:\university\CallCenter\obj\Debug\net6.0\refint\CallCenter.dll
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.pdb
+D:\university\CallCenter\obj\Debug\net6.0\CallCenter.genruntimeconfig.cache
+D:\university\CallCenter\obj\Debug\net6.0\ref\CallCenter.dll
